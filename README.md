@@ -2,7 +2,7 @@
 
 🚀 Tanda website is a WordPress template, which is probably free. So today I designed some part of this website, and it took me 6-7 hours to make it. And in the end this is in front of you..! 
 
-📢 Technology Used: HTML, CSS, ReactJS
+📢 Technology Used: HTML, CSS
 
 
 📩 Connect with me: 
